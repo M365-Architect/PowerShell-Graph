@@ -5,7 +5,7 @@ All scripts are intended to be tiny problem solvers in my projects where I am ma
 
 ## Assign-Licenses
 ### assign-licenses.ps1
-This script assigns Offiec 365 licenses via PowerShell SDK. It reads all members of the group **users-o365** and assigns Exchange Online Plan1.
+This script assigns Offiec 365 licenses via PowerShell SDK. It reads all members of the group **users-o365** and assigns Exchange Online Plan1. This script can be a template for a liecnse assignment process in any company.
 
 ## AzureAD Apps
 This folder contains scripts that help in working with AzureAD Apps (App Registrations & Enterprise Apps)
